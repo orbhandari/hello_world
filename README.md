@@ -20,4 +20,4 @@ I'm *Om*. No, I'm **Om**.
 `import numpy as np`
 ---
 
-x^2 is what? x^2^2 is what?
+x^2 is what? x^2^ is what?
